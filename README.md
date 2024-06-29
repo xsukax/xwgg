@@ -19,6 +19,5 @@ sudo docker build -t nginx-xwgg .
 ```sh
 sudo docker run -d -p 8088:80 --name Nginx-xwgg nginx-xwgg:latest
 ```
-3- Check localhost url<br/>
-http://localhost:8088<br />
-<br />
+4- Check localhost url<br/>
+http://localhost:8088
