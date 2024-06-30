@@ -17,7 +17,7 @@ sudo docker build -t nginx-xwgg .
 ```
 3- Create a Container
 ```sh
-sudo docker run -d -p 8088:80 --name Nginx-xwgg nginx-xwgg:latest
+sudo docker run -d -p 8088:80 --name xsukax-xwgg xsukax-xwgg:latest
 ```
 4- Check localhost url<br/>
 http://localhost:8088
