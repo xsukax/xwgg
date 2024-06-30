@@ -25,5 +25,5 @@ http://localhost:8088
 ```sh
 sudo docker run -d -p 8088:80 --name xsukax-xwgg xsukax/xwgg:1.0
 ```
-4- Check localhost url<br/>
+Check localhost url<br/>
 http://localhost:8088
