@@ -13,7 +13,7 @@ cd xwgg
 ```
 2- Build nginx alpine image
 ```sh
-sudo docker build -t nginx-xwgg .
+sudo docker build -t xsukax-xwgg .
 ```
 3- Create a Container
 ```sh
