@@ -23,7 +23,7 @@ sudo docker run -d -p 8088:80 --name xsukax-xwgg xsukax-xwgg:latest
 http://localhost:8088
 ### You can download docker image directly & run container:
 ```sh
-sudo docker run -d -p 8088:80 --restart unless-stopped --name xsukax-xwgg xsukax/xwgg:1.0
+sudo docker run -d -p 8088:80 --restart unless-stopped --name xsukax-xwgg xsukax/xwgg:latest
 ```
 Check localhost url<br/>
 http://localhost:8088
