@@ -1,4 +1,5 @@
 # xsukax Winget Generator - XWGG
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/xsukax/xwgg)
 ## The Best Open Source Solution after Installing Fresh Windows
 Simple tool to Generate batch script to install the most needed windows applications via winget tool<br />
 Check Demo: https://xsukax.github.io/xwgg/
